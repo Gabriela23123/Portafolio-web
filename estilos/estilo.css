@@ -1,0 +1,169 @@
+@font-face {
+    font-family: 'PatrickHand';
+    src: url('tipografias/patrick_hand.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+#con {
+    width: 1255px;
+    margin-bottom: 30px;
+}
+
+#con2 {
+    width: 1000px;
+    margin-top: 25px;
+    margin-left: 155px;
+    margin-right: auto;
+}
+
+.salto {
+    width: 100%;
+    clear: both;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(240, 240, 240);
+    background-color: rgb(20, 30, 55);
+}
+
+body {
+    background-color: rgb(235, 240, 245);
+    font-family: 'PatrickHand', sans-serif;
+}
+
+h2 {
+    font-size: 14px;
+}
+
+h3 {
+    margin: 8px;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 2px;
+}
+
+h4 {
+    float: left;
+    margin: 0;
+    font-size: 10px;
+}
+
+h5 {
+    float: right;
+    margin: 0;
+    font-size: 10px;
+}
+
+h6 {
+    width: 100%;
+    margin: 1px;
+    text-align: center;
+    font-size: 9px;
+    font-weight: normal;
+}
+
+.espacio10 {
+    width: 672px;
+    height: 68px;
+    float: left;
+    margin: 4px;
+}
+
+.espacio16 {
+    width: 1079px;
+    height: 30px;
+    float: left;
+    margin: 4px;
+}
+
+.elementos {
+    background-color: rgb(255, 255, 255);
+    color: rgb(30, 30, 30);
+    width: 60px;
+    height: 68px;
+    margin: 4px;
+    padding: 3px;
+    float: left; 
+    box-sizing: border-box;
+}
+
+.grupo {
+    width: 60px;
+    height: 30px;
+    float: left;
+    margin: 4px;
+    color: rgb(40, 50, 70);
+    text-align: center;
+    margin-top: 40px;
+}
+
+.subirgrupo {
+    margin-top: 0px;
+}
+
+.periodo {
+    width: 17px;
+    height: 40px;
+    float: left;
+    color: rgb(40, 50, 70);
+    text-align: center;
+    margin-top: 15px;
+}
+
+#esquina {
+    width: 20px;
+    height: 30px;
+    float: left;
+}
+
+.noMetalicos {
+    background-color: rgb(255, 179, 186);
+    color: rgb(60, 20, 20);
+}
+
+.gasesNobles {
+    background-color: rgb(186, 225, 255);
+    color: rgb(10, 40, 70);
+}
+
+.metalesAlcalinos {
+    background-color: rgb(255, 223, 186);
+    color: rgb(70, 40, 10);
+}
+
+.alcalinoterreos {
+    background-color: rgb(255, 255, 186);
+    color: rgb(60, 60, 10);
+}
+
+.otrosMetales {
+    background-color: rgb(186, 255, 201);
+    color: rgb(10, 60, 20);
+}
+
+.metalesTransicion {
+    background-color: rgb(222, 186, 255);
+    color: rgb(40, 10, 70);
+}
+
+.lantanidos {
+    background-color: rgb(213, 255, 186);
+    color: rgb(30, 60, 10);
+}
+
+.metaloides {
+    background-color: rgb(255, 204, 229);
+    color: rgb(70, 10, 40);
+}
+
+.halogenos {
+    background-color: rgb(204, 255, 255);
+    color: rgb(10, 60, 60);
+}
+
+.actinidos {
+    background-color: rgb(229, 204, 255);
+    color: rgb(50, 10, 70);
+}
